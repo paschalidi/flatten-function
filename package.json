@@ -6,7 +6,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "jest": "23.0.1"
+    "jest": "25.0.0"
   },
   "keywords": []
 }
