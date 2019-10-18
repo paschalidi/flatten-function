@@ -1,7 +1,7 @@
 import { flatten } from "./flatten";
 
 describe("flatten method", function() {
-  it("should flatten `arguments` objects", function() {
+  it("should flatten deeply arrays", function() {
     const array = [1, [2, [3, [4]], 5]];
     const flatArray = flatten(array);
     const expected = [1, 2, 3, 4, 5];
