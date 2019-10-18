@@ -1,0 +1,12 @@
+{
+  "name": "flatten-function-with-jest-typescript",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "23.0.1"
+  },
+  "keywords": []
+}
